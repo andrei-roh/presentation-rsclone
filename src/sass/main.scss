@@ -1,0 +1,138 @@
+@import '../../node_modules/reveal.js/css/reveal.css';
+@import '../../node_modules/reveal.js/css/theme/solarized.css';
+@import '../../node_modules/reveal.js/lib/css/monokai.css';
+
+.title {
+  color: #fff;
+  top: 150px;
+  position: relative;
+}
+
+.logo {
+  width: 400px;
+}
+
+.logo-2 {
+  width: 500px;
+  border: none !important;
+}
+
+.jira-image {
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.logo-rs {
+  width: 300px;
+  border: none !important;
+  background: none !important;
+  box-shadow: none !important;
+}
+
+.logo-author {
+  width: 100px;
+}
+
+.big-block {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.table-block {
+  display: flex;
+  flex-direction: row;
+  width: 90vw;
+  justify-content: space-around;
+}
+
+.block-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.block-column {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.block-link {
+  display: flex;
+  flex-direction: row;
+}
+
+.inline-block {
+  background-color: #000;
+  font-color: #fff;
+  font-weight: bold;
+}
+
+.section-install {
+  top: 50px !important;
+}
+
+.section-structure {
+  top: 120px !important;
+  text-align: left;
+}
+
+.section-row {
+  display: flex !important;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.section-column {
+  display: flex;
+  flex-direction: column;
+}
+
+.section-example {
+  top: 50px !important;
+}
+
+.debounce {
+  width: 1040px;
+}
+
+.get-set {
+  display: block !important;
+}
+
+.sortby {
+  display: block !important;
+  top: 0px !important;
+}
+
+.keyby {
+  display: block !important;
+  top: 0px !important;
+  width: 1100px;
+}
+
+.small-symbols {
+  font-size: 14px !important;
+}
+
+.structure-image {
+  background: none !important;
+  border: none !important;
+  box-shadow: none !important;
+  margin: 0 !important;
+}
+
+.learn-more {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.ligthgray {
+  background-color: lightgray;
+}
